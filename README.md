@@ -7,6 +7,12 @@ To test this example, simply download the files of clone this repository to your
 
 To clone the repository (if you are Windows user), open Git Bash and  simply type $ git clone, and then paste the copied URL on Git Bash.
 
+```
+function test() {
+  console.log("$ git clone ");
+}
+```
+
 ```Python
 from math import *
 ```
